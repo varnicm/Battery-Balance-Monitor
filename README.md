@@ -1,1 +1,3 @@
 # Battery-Balance-Monitor
+Battery Balance Monitor: Proactive Battery Health Monitoring - Battery Balance Monitor is a Google Chrome extension designed to enhance your device's battery health and longevity. It actively monitors your battery level and sends timely alerts when the charge falls below 20% or rises above 80%. This range is critical for maintaining battery health and efficiency. Ideal for users seeking to optimize their device's battery life, Battery Balance Monitor is a simple yet powerful tool for proactive battery management. Stay informed and protect your device's battery with ease.
+
